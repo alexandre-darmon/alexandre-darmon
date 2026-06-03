@@ -15,7 +15,7 @@ Then I started building for myself.
 | Project | What it does | Status |
 |---|---|---|
 | [SASU IS Simple](https://www.sasu-is-simple.fr) | Salary vs dividends optimizer for French freelancers | 🟢 Live |
-| [The AI Compass](https://www.alexdarmon.net/ai-compass) | 10-day email course — AI for non-technical professionals | 🟢 Live |
+| [The AI Compass](https://the-ai-compass.vercel.app) | 10-day email course — AI for non-technical professionals | 🟢 Live |
 | **ValuePick** | Value-investing screener with LLM-powered thesis generation | 🔨 Building |
 
 ---
