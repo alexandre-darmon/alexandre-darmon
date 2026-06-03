@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**alexandre-darmon/alexandre-darmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Product Manager. I build and ship products — not decks.**
 
-Here are some ideas to get you started:
+10 years ago, I started building data products. Nobody called them AI products then.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since then, I've shipped pricing algorithms that moved **€8M in revenue** at Decathlon. Built observability platforms tracking AI adoption across the BNP Paribas Group. Run data teams, roadmaps, and stakeholders in regulated industries where failure costs millions.
+
+Then I started building for myself.
+
+---
+
+## What I'm shipping
+
+| Project | What it does | Status |
+|---|---|---|
+| [SASU IS Simple](https://www.sasu-is-simple.fr) | Salary vs dividends optimizer for French freelancers | 🟢 Live |
+| [The AI Compass](https://www.alexdarmon.net/ai-compass) | 10-day email course — AI for non-technical professionals | 🟢 Live |
+| **ValuePick** | Value-investing screener with LLM-powered thesis generation | 🔨 Building |
+
+---
+
+## How I build
+
+```
+Idea → Claude Code / Lovable → Next.js + TypeScript → Vercel
+```
+
+Multi-LLM by design: Claude for the hard reasoning, OpenRouter to route everything else to cheaper models.
+
+---
+
+## What I care about
+
+The gap between "we have an AI strategy" and "our AI product has 10,000 users" is where I work.
+
+Real users. Real revenue. AI that earns its place in the business.
+
+---
+
+## Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexdarmon-blue?logo=linkedin)](https://www.linkedin.com/in/alexdarmon/)
+[![Website](https://img.shields.io/badge/Website-alexdarmon.net-black?logo=vercel)](https://www.alexdarmon.net)
+
+📍 Paris, France
