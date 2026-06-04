@@ -2,7 +2,7 @@
 
 **AI Product Manager. I build and ship products — not decks.**
 
-I have been building Data & AI products for 10 years.
+10 years building Data & AI products.
 
 I've shipped pricing algorithms that moved **€8M in revenue** at Decathlon. Built observability platforms tracking AI adoption across the BNP Paribas Group. Run data teams, roadmaps, and stakeholders in regulated industries where failure costs millions.
 
