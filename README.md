@@ -16,7 +16,7 @@ Then I started building for myself.
 |---|---|---|
 | [SASU IS Simple](https://www.sasu-is-simple.fr) | Salary vs dividends optimizer for French freelancers | 🟢 Live |
 | [The AI Compass](https://the-ai-compass.vercel.app) | 10-day email course — AI for non-technical professionals | 🟢 Live |
-| **EvalBlink** | Benchmark prompts × models × tests — quality, cost, latency in one command | 🔨 Building |
+| [EvalBlink](https://github.com/alexandre-darmon/evalblink)| Benchmark prompts × models × tests — quality, cost, latency in one command | 🟢 Live |
 | **ValuePick** | Value-investing screener with LLM-powered thesis generation | 🔨 Building |
 
 ---
