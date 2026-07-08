@@ -5,6 +5,7 @@
 Most AI pilots never prove their revenue impact. I ship the ones that do and prove it in euros.
 
 10+ years turning messy, regulated data into products that move the number. 
+
 I build and ship products with impact, not decks:
 
 - +30M€ unlocked through data quality
