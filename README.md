@@ -1,10 +1,18 @@
 # Hi, I'm Alex 👋
 
-**AI Product Manager. I build and ship products — not decks.**
+**AI Product Manager. Turning AI agents into products that generate revenue: observable, evaluated, auditable**
 
-10 years building Data & AI products.
+Most AI pilots never prove their revenue impact. I ship the ones that do and prove it in euros.
 
-I've shipped pricing algorithms that moved **€8M in revenue** at Decathlon. Built observability platforms tracking AI adoption across the BNP Paribas Group. Run data teams, roadmaps, and stakeholders in regulated industries where failure costs millions.
+10+ years turning messy, regulated data into products that move the number. 
+I build and ship products with impact, not decks:
+
+- +30M€ unlocked through data quality
+- +8M€ from a pricing product at Decathlon
+- 300M€/year billing platform at BNP Paribas
+- −75% production time on core reporting
+
+Built observability platforms tracking AI adoption across the BNP Paribas Group. Run data teams, roadmaps, and stakeholders in regulated industries where failure costs millions.
 
 Then I started building for myself.
 
