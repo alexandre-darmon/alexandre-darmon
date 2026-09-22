@@ -35,7 +35,7 @@ Then I started building for myself.
 
 Most people learn an agent framework before they understand what an agent loop actually is.
 
-nanoAgent inverts that: a tool-calling loop written in plain Python, no framework — the same instinct as Karpathy's nanoGPT, applied to agents. About **20 lines** run the whole thing. Skills load on demand, the same progressive-disclosure pattern behind Claude's own Skills, rebuilt from first principles.
+nanoAgent inverts that: a tool-calling loop written in plain Python, no framework. About **20 lines** run the whole thing. Skills load on demand, the same progressive-disclosure pattern behind Claude's own Skills, rebuilt from first principles.
 
 I ran it on financial tasks, across multiple models and providers, and logged every call. Three findings mattered more than the code:
 
