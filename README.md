@@ -23,6 +23,7 @@ Then I started building for myself.
 
 | Project | What it does | Status |
 |---|---|---|
+| [AIunmagic](https://aiunmagic.com) | Interactive experience to understand GenAI key concepts for non-technical professionals | 🟢 Live |
 | [nanoAgent](https://github.com/alexandre-darmon/nanoagent) | Agent loop built from scratch, no framework — the nanoGPT of agents | 🟢 Live |
 | [EvalBlink](https://github.com/alexandre-darmon/evalblink) | Benchmark prompts × models × tests — quality, cost, latency in one command | 🟢 Live |
 | [Awesome French AI](https://github.com/alexandre-darmon/awesome-french-ai) | Curated map of the French AI ecosystem — labs, models, startups, people | 🟢 Live |
