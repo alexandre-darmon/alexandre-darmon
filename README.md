@@ -29,7 +29,6 @@ Then I started building for myself.
 | [Awesome French AI](https://github.com/alexandre-darmon/awesome-french-ai) | Curated map of the French AI ecosystem — labs, models, startups, people | 🟢 Live |
 | [The AI Compass](https://the-ai-compass.vercel.app) | 10-day email course — AI for non-technical professionals | 🟢 Live |
 | [SASU IS Simple](https://www.sasu-is-simple.fr) | Salary vs dividends optimizer for French freelancers | 🟢 Live |
-| **ValuePick** | Value-investing screener with LLM-powered thesis generation | 🔨 Building |
 
 ---
 
