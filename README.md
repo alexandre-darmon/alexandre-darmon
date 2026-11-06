@@ -15,8 +15,6 @@ I build and ship products with impact, not decks:
 
 Built observability platforms tracking AI adoption across the BNP Paribas Group. Ran data teams, roadmaps, and stakeholders in regulated industries where failure costs millions.
 
-Then I started building for myself.
-
 ---
 
 ## What I'm shipping
@@ -29,34 +27,6 @@ Then I started building for myself.
 | [Awesome French AI](https://github.com/alexandre-darmon/awesome-french-ai) | Curated map of the French AI ecosystem — labs, models, startups, people | 🟢 Live |
 | [The AI Compass](https://the-ai-compass.vercel.app) | 10-day email course — AI for non-technical professionals | 🟢 Live |
 | [SASU IS Simple](https://www.sasu-is-simple.fr) | Salary vs dividends optimizer for French freelancers | 🟢 Live |
-
----
-
-## Inside nanoAgent
-
-Most people learn an agent framework before they understand what an agent loop actually is.
-
-nanoAgent inverts that: a tool-calling loop written in plain Python, no framework. About **20 lines** run the whole thing. Skills load on demand, the same progressive-disclosure pattern behind Claude's own Skills, rebuilt from first principles.
-
-I ran it on financial tasks, across multiple models and providers, and logged every call. Three findings mattered more than the code:
-
-- **The provider is a second dial below the model.** Same model, same question: one provider took 18s and followed every skill exactly. Another took 8s and drifted.
-- **Progressive disclosure isn't free.** Loading skill descriptions on demand cost **+95 tokens** every turn. Loading full skill bodies upfront cost **+266**. On-demand only pays off once a good share of your skills go unused.
-- **One sentence beat every code change.** A single line added to a skill file cut a 1,351-token turn down to under 90.
-
-> The loop is the easy part. What decides cost, speed, and correctness sits outside it — the model, the provider, and how the instructions are written.
-
-That's the part most agent demos skip past.
-
-[→ Full repo, logs, and measurements](https://github.com/alexandre-darmon/nanoagent)
-
----
-
-## What I care about
-
-The gap between "we have an AI strategy" and "our AI product has 10,000 users" is where I work.
-
-Real users. Real revenue. AI that earns its place in the business.
 
 ---
 
