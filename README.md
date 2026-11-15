@@ -26,7 +26,6 @@ Built observability platforms tracking AI adoption across the BNP Paribas Group.
 | [EvalBlink](https://github.com/alexandre-darmon/evalblink) | Benchmark prompts × models × tests — quality, cost, latency in one command | 🟢 Live |
 | [nanoAgent](https://github.com/alexandre-darmon/nanoagent) | Agent loop built from scratch, no framework — the nanoGPT of agents | 🟢 Live |
 | [Awesome French AI](https://github.com/alexandre-darmon/awesome-french-ai) | Curated map of the French AI ecosystem — labs, models, startups, people | 🟢 Live |
-| [The AI Compass](https://the-ai-compass.vercel.app) | 10-day email course — AI for non-technical professionals | 🟢 Live |
 | [book2audio](https://github.com/alexandre-darmon/book2audio) | Ebooks into audiobooks with natural voice. Simple and free on your Mac. | 🟢 Live |
 | [SASU IS Simple](https://www.sasu-is-simple.fr) | Salary vs dividends optimizer for French freelancers | 🟢 Live |
 
